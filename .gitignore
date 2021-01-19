@@ -1,0 +1,9 @@
+## jetbrains
+.idea/
+*.iml
+
+## Misc
+.DS_Store
+
+## temporaries
+converted/
