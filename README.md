@@ -1,7 +1,7 @@
 # Video Streaming - Vupload
 _Worker for video conversion_
 
-**See backend-service for more details**
+**See [backend-service](https://github.com/junzhli/video-platform-api) for more details**
 
 Prerequisite
 -----
